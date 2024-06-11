@@ -1,3 +1,0 @@
-푸시했던 파일을 amend commit 하여 내용 수정 하였음
-
-수정하고 amend last commit 버튼 누름
