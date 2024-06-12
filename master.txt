@@ -1,2 +1,1 @@
-feature 에서 파일 수정하고
-master에서 파일 수정한다~~~~~
+master파일~~
