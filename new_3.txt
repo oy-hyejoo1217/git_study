@@ -1,1 +1,0 @@
-feature_test 생성 후 master에 새로 만든 파일 / push도 함
